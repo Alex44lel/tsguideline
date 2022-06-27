@@ -107,7 +107,7 @@ lead to a "cleaner" solution.
 
 ### Conditional Rendering
 
-Conditional rendering is a very common task. Sometimes a component my render
+Conditional rendering is a very common task. Sometimes a component may render
 a child, sometimes due to a certain condition it may not.
 
 Use `withCondition` HoC to conditionally render a single element.
